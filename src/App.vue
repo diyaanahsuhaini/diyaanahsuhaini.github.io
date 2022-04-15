@@ -7,7 +7,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <template>
   <div class="flex items-center justify-center mt-5">
 
-	<div class="bg-emerald-900 w-1/8 p-10 h-auto">
+	<div class="bg-emerald-900 w-1/8 p-10 max-w-md mx-auto">
 		<div class="flex items-center justify-center mb-10">
 			<img src="./assets/profile.jpg" alt=""
 				class="rounded-full w-32 border-2 border-gray-300">
