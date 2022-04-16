@@ -9,7 +9,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
 	<div class="bg-emerald-900 w-1/8 p-10 max-w-md mx-auto">
 		<div class="flex items-center justify-center mb-10">
-			<img src="./assets/profile.jpg" alt=""
+			<img src="./assets/profile-min.jpg" alt=""
 				class="rounded-full w-32 border-2 border-gray-300">
 		</div>
 		<h1 class="text-gray-100 uppercase tracking-widest text-lg font-bold">Contact</h1>
