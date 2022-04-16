@@ -14,7 +14,7 @@ import HelloWorld from './components/HelloWorld.vue'
 		</div>
 		<h1 class="text-gray-100 uppercase tracking-widest text-lg font-bold">Contact</h1>
 		<hr class="w-1/6 mb-5">
-    <h1 class="text-gray-100 text-sm">DAYANGKU NURUL DIYAANAH IZZATI BINTI PENGIRAN SUHAINI</h1>
+    <h1 class="text-gray-100 text-sm">DAYANGKU NURUL DIYAANAH IZZATI</h1>
 		<h1 class="text-gray-100 text-sm">20FTT1445@student.pb.edu.bn</h1>
 		<h1 class="text-gray-100 text-sm">+673 734 6874</h1>
 		<h1 class="text-gray-100 text-sm">Bandar Seri Begawan, Brunei Darussalam</h1>
